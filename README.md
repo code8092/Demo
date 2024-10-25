@@ -1,4 +1,4 @@
 # Demo
 This is my first repository.
 <br>
-Auther - Raj Anand
+Auther - Raj (Pandit)
